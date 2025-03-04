@@ -13,7 +13,9 @@ A Flutter-based To-Do List app with a modern UI and adaptive layout.
  
 
 ## Screenshots  
-![Screenshot](screenshots/screen1.png)
+![Home Screen](assets/screenshots/home.png)  
+![Tasks Screen](assets/screenshots/tasks.png)  
+![Landscape Mode](assets/screenshots/landscape.png)  
 
 ## Features  
 ✅ Modern UI with adaptive design (works in both portrait & landscape)
