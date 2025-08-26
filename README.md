@@ -7,11 +7,9 @@ A Flutter-based To-Do List app with a modern UI and adaptive layout.
 2. Run `flutter pub get` to install dependencies.  
 3. Use `flutter run` to start the app.  
 
-## Group Members  
-- Member 1: Ariha Zainab (2280138)  
-- Member 2: Marrium Shaikh (2280147)
+## Creator 
+- Ariha Zainab (2280138)  
  
-
 ## Screenshots  
 ![Home Screen](assets/screenshots/home.png)  
 ![Tasks Screen](assets/screenshots/tasks.png)  
